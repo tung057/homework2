@@ -1,3 +1,4 @@
+#homework2
 class Player
   def initialize(name)
     @name = name
